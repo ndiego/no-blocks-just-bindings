@@ -1,6 +1,6 @@
 # No Blocks, Just Bindings
 
-[![Playground Demo Link](https://img.shields.io/badge/Playground_Demo-v0.1.0-blue?logo=wordpress&logoColor=%23fff&labelColor=%233858e9&color=%233858e9)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/ndiego/no-blocks-just-bindings/main/_playground/blueprint-github.json)
+[![Playground Demo Link](https://img.shields.io/badge/Playground_Demo-v0.1.0-blue?logo=wordpress&logoColor=%23fff&labelColor=%233858e9&color=%233858e9)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/ndiego/no-blocks-just-bindings/refs/heads/main/_playground/blueprint-github.json)
 
 A collection of useful block bindings.
 
