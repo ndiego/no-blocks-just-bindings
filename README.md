@@ -4,8 +4,8 @@
 
 A collection of useful block bindings.
 
-- Time To Read
-- Read More Button
+- Time To Read (Paragraph)
+- Read More (Button)
 
 ## Development
 

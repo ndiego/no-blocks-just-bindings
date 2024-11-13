@@ -15,6 +15,9 @@ A collection of useful block bindings.
 
 A collection of useful block bindings.
 
+- Time To Read (Paragraph)
+- Read More (Button)
+
 == Installation ==
 
 1. Upload the `no-blocks-just-bindings` folder to the `/wp-content/plugins/` directory
