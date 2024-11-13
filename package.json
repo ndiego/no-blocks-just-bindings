@@ -1,0 +1,31 @@
+{
+    "name": "no-blocks-just-bindings",
+    "version": "0.1.0",
+    "description": "A collection of useful block bindings.",
+    "author": "Nick Diego",
+    "license": "GPL-2.0-or-later",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ndiego/no-blocks-just-bindings.git"
+    },
+    "scripts": {
+        "build": "wp-scripts build",
+        "lint:css": "wp-scripts lint-style",
+        "lint:js": "wp-scripts lint-js",
+        "lint:js:src": "wp-scripts lint-js ./src",
+        "lint:js:src:fix": "wp-scripts lint-js ./src --fix",
+        "start": "wp-scripts start",
+        "packages-update": "wp-scripts packages-update",
+        "update-pot": "wp i18n make-pot . languages/your-people.pot --exclude=src",
+        "plugin-zip": "wp-scripts plugin-zip"
+    },
+    "dependencies": {
+        "@wordpress/wordcount": "^4.11.0",
+        "classnames": "^2.3.2"
+    },
+    "devDependencies": {
+        "@wordpress/icons": "^10.9.0",
+        "@wordpress/scripts": "^30.1.0",
+        "webpack-remove-empty-scripts": "^0.8.4"
+    }
+}
