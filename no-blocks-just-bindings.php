@@ -43,7 +43,7 @@ function register_bindings() {
     register_block_bindings_source(
 		'time-to-read/time',
 		array(
-			'label'              => __( 'Time to Read', 'no-blocks-just-bindings' ),
+			'label'              => __( 'Time To Read', 'no-blocks-just-bindings' ),
             'uses_context'       => array( 'postId', 'postType' ),
 			'get_value_callback' => function( $source_args, $block_instance ) {
                 if ( ! isset( $block_instance->context['postId'] ) ) {

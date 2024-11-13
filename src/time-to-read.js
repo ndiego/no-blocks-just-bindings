@@ -15,7 +15,7 @@ import { scheduled } from '@wordpress/icons';
 registerBlockVariation( 'core/paragraph', {
 	name: 'time-to-read/time',
 	icon: scheduled,
-	title: __( 'Time to Read', 'no-blocks-just-bindings' ),
+	title: __( 'Time To Read', 'no-blocks-just-bindings' ),
 	description: __(
 		'Show minutes required to finish reading the post.',
 		'no-blocks-just-bindings'
