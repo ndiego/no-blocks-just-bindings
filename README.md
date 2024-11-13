@@ -4,6 +4,9 @@
 
 A collection of useful block bindings.
 
+- Time To Read
+- Read More Button
+
 ## Development
 
 1. Set up a local WordPress development environment.
